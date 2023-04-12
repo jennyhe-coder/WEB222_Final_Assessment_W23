@@ -30,10 +30,10 @@ body {
   padding: 30px;
   background-image: linear-gradient(to bottom,    
   #ebd5d5 0%,
-  #ebd5d5 30%,
-  #ede0e0 30%,
-  #ede0e0 47%,
-  #f7f2f2 47%,
+  #ebd5d5 40%,
+  #ede0e0 40%,
+  #ede0e0 65%,
+  #f7f2f2 65%,
   #f7f2f2 100%);
 }
 
@@ -164,7 +164,7 @@ section{
 #citations{
   background-color: beige;
   padding: 20px;
-}
+} 
 
 #statement{
   background-color: rgb(255, 239, 219);
